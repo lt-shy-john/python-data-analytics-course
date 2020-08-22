@@ -1,0 +1,22 @@
+﻿Type,Generation,Spin,Charge,Mass,Interaction
+Quarks,1,0.5,0.67 ,2.2,nan
+Quarks,1,0.5,-0.33 ,4.6,nan
+Quarks,2,0.5,0.67 ,1280,nan
+Quarks,2,0.5,-0.33 ,96,nan
+Quarks,3,0.5,0.67 ,173100,nan
+Quarks,3,0.5,-0.33 ,4180,nan
+Leptons,1,0.5,-1.00 ,0.511,nan
+Leptons,1,0.5,0.00 ,0.0000022,nan
+Leptons,2,0.5,-1.00 ,105.7,nan
+Leptons,2,0.5,0.00 ,0.17,nan
+Leptons,3,0.5,-1.00 ,1776.86,nan
+Leptons,3,0.5,0.00 ,15.5,nan
+Bosons,nan,1,0.00 ,0,Electromagnetism
+Bosons,nan,1,-1.00 ,80.385,Weak
+Bosons,nan,1,0.00 ,91.1875,Weak
+Bosons,nan,1,0.00 ,0,Strong
+Bosons,nan,0,0.00 ,125.9,Mass
+Bosons,nan,2,0.00 ,0,Gravitation
+,,,,,
+,,,,,
+,,,,,
