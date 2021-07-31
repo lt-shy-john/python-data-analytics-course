@@ -1,0 +1,1001 @@
+Age,Gender,Qualifications,Role,Programming_language,Experience,Salary
+21,1,Diploma/ Advanced Diploma,Unemployed,R,3,10000.0
+25,1,High school,Database Engineer,R,5,10000.0
+32,1,Bachelor,Data Scientist,Python,12,10000.0
+28,1,Bachelor,Software Engineer,Python,1,10000.0
+29,0,Bachelor,Statistician,Python,1,10000.0
+27,1,Bachelor,Data Scientist,Python,1,10000.0
+28,1,Masters,Data Scientist,Python,1,10000.0
+21,1,Bachelor,Data Engineer,Python,5,10000.0
+38,1,Diploma/ Advanced Diploma,Unemployed,Python,1,10000.0
+22,1,Bachelor,Software Engineer,Python,7,10000.0
+20,1,Diploma/ Advanced Diploma,Software Engineer,Python,1,10000.0
+33,1,Diploma/ Advanced Diploma,Unemployed,Python,1,10000.0
+24,1,PhD,Data Analyst,Python,6,10000.0
+20,1,PhD,Data Analyst,R,3,10000.0
+28,0,Diploma/ Advanced Diploma,Statistician,Python,1,10000.0
+33,1,Bachelor,Unemployed,Python,1,50000.0
+28,0,Bachelor,Data Engineer,Python,1,10000.0
+27,0,Bachelor,Software Engineer,Python,1,10000.0
+31,1,Masters,Business Analyst,R,1,10000.0
+31,1,Masters,Data Scientist,Python,1,10000.0
+27,1,Bachelor,Data Scientist,PHP,1,10000.0
+38,1,Masters,Data Scientist,Python,1,10000.0
+22,1,Masters,Software Engineer,Python,6,10000.0
+22,1,Masters,Unemployed,R,5,10000.0
+22,0,Bachelor,Unemployed,Python,4,10000.0
+28,1,Masters,Database Engineer,Python,1,10000.0
+31,1,Masters,Statistician,PHP,1,30000.0
+20,1,Masters,Software Engineer,Python,4,10000.0
+29,0,Bachelor,Unemployed,PHP,1,20000.0
+38,1,Diploma/ Advanced Diploma,Data Scientist,Python,1,10000.0
+25,1,Bachelor,Software Engineer,C,7,10000.0
+28,1,PhD,Unemployed,Python,1,10000.0
+24,1,Masters,Business Analyst,R,1,10000.0
+20,1,Bachelor,Data Analyst,Python,1,10000.0
+27,1,Bachelor,Statistician,Python,1,20000.0
+26,1,Diploma/ Advanced Diploma,Business Analyst,Python,1,10000.0
+30,1,PhD,Software Engineer,Python,1,20000.0
+22,1,Bachelor,Data Analyst,Python,6,10000.0
+22,1,Masters,Data Scientist,C,5,10000.0
+24,0,Masters,Data Analyst,Python,5,10000.0
+28,1,Bachelor,Statistician,Python,8,10000.0
+21,1,Diploma/ Advanced Diploma,Database Engineer,R,5,10000.0
+21,0,Diploma/ Advanced Diploma,Unemployed,R,1,10000.0
+38,0,High school,Unemployed,Python,1,10000.0
+21,1,PhD,Business Analyst,R,5,50000.0
+28,1,Bachelor,Data Engineer,C,1,20000.0
+24,1,Diploma/ Advanced Diploma,Data Scientist,Python,1,10000.0
+31,1,Bachelor,Database Engineer,R,1,10000.0
+27,1,Diploma/ Advanced Diploma,Unemployed,Python,7,10000.0
+22,0,Diploma/ Advanced Diploma,Software Engineer,Python,5,10000.0
+25,0,Bachelor,Business Analyst,R,1,10000.0
+20,1,Bachelor,Unemployed,Python,1,10000.0
+38,1,Bachelor,Data Analyst,Python,1,10000.0
+38,1,Masters,Software Engineer,Python,1,10000.0
+38,1,Masters,Software Engineer,Python,1,10000.0
+29,1,Masters,Unemployed,Python,1,10000.0
+29,1,Bachelor,Software Engineer,Python,1,10000.0
+38,1,Masters,Data Scientist,R,1,10000.0
+25,1,Masters,Data Scientist,C,1,10000.0
+22,1,PhD,Statistician,PHP,4,10000.0
+29,1,Diploma/ Advanced Diploma,Unemployed,Python,1,30000.0
+24,1,High school,Software Engineer,R,4,20000.0
+33,1,Bachelor,Statistician,Python,1,10000.0
+38,0,Bachelor,Unemployed,Python,1,10000.0
+26,1,Masters,Software Engineer,Python,6,20000.0
+38,1,Bachelor,Unemployed,Python,1,10000.0
+35,0,Diploma/ Advanced Diploma,Data Scientist,Python,1,10000.0
+23,1,Masters,Data Scientist,Python,3,10000.0
+27,1,Diploma/ Advanced Diploma,Database Engineer,Python,1,10000.0
+29,1,Diploma/ Advanced Diploma,Statistician,Python,1,40000.0
+27,1,Bachelor,Software Engineer,Python,1,10000.0
+27,1,Diploma/ Advanced Diploma,Data Scientist,PHP,1,10000.0
+31,1,Bachelor,Data Scientist,Python,1,10000.0
+29,0,PhD,Software Engineer,R,1,10000.0
+38,0,Masters,Software Engineer,Python,1,10000.0
+22,1,Diploma/ Advanced Diploma,Data Analyst,Python,3,10000.0
+30,0,Bachelor,Unemployed,PHP,1,10000.0
+22,0,Masters,Software Engineer,Python,7,10000.0
+32,1,Masters,Business Analyst,Python,1,10000.0
+40,0,Bachelor,Software Engineer,R,1,10000.0
+20,1,Diploma/ Advanced Diploma,Data Analyst,R,3,10000.0
+32,1,Diploma/ Advanced Diploma,Unemployed,Python,1,20000.0
+23,0,Bachelor,Data Analyst,Python,1,10000.0
+32,1,Bachelor,Unemployed,R,1,20000.0
+22,0,Bachelor,Data Scientist,Python,1,20000.0
+31,0,Bachelor,Data Engineer,C,1,10000.0
+23,1,Masters,Data Scientist,Python,4,10000.0
+27,1,Bachelor,Unemployed,Python,1,10000.0
+27,0,Bachelor,Software Engineer,Python,1,10000.0
+20,1,Bachelor,Data Analyst,PHP,0,10000.0
+24,1,Bachelor,Data Scientist,R,1,10000.0
+31,1,Bachelor,Data Engineer,Python,1,10000.0
+29,1,Masters,Software Engineer,C,1,10000.0
+30,0,Masters,Unemployed,Python,1,30000.0
+23,0,Masters,Database Engineer,Python,4,20000.0
+29,0,Diploma/ Advanced Diploma,Statistician,Python,1,10000.0
+32,1,Bachelor,Software Engineer,R,1,10000.0
+22,1,Masters,Database Engineer,R,1,10000.0
+24,1,Bachelor,Statistician,Python,1,10000.0
+38,1,Masters,Unemployed,PHP,1,10000.0
+38,0,Bachelor,Software Engineer,PHP,1,10000.0
+21,1,Bachelor,Software Engineer,PHP,6,10000.0
+25,0,Bachelor,Data Analyst,C,1,10000.0
+20,0,Masters,Business Analyst,R,3,10000.0
+31,1,Bachelor,Unemployed,R,1,10000.0
+21,1,PhD,Software Engineer,Python,7,10000.0
+28,1,Bachelor,Business Analyst,R,1,10000.0
+26,0,Diploma/ Advanced Diploma,Other,Python,1,10000.0
+33,1,Bachelor,Unemployed,C,1,10000.0
+22,0,High school,Statistician,Python,2,10000.0
+33,1,Masters,Data Engineer,C,1,10000.0
+31,1,Masters,Business Analyst,Python,1,10000.0
+38,1,Masters,Data Analyst,Python,1,10000.0
+24,0,PhD,Data Analyst,Python,1,10000.0
+38,0,Bachelor,Unemployed,C,1,10000.0
+38,1,PhD,Data Scientist,Python,1,20000.0
+28,1,Masters,Statistician,PHP,1,10000.0
+38,1,Bachelor,Data Analyst,PHP,1,10000.0
+27,0,Bachelor,Unemployed,C,7,10000.0
+27,1,Masters,Business Analyst,R,1,10000.0
+22,1,Bachelor,Data Engineer,Python,3,10000.0
+31,1,PhD,Software Engineer,Python,1,10000.0
+24,0,Diploma/ Advanced Diploma,Data Analyst,Python,1,10000.0
+31,1,Masters,Software Engineer,Python,1,10000.0
+33,1,Bachelor,Unemployed,R,1,10000.0
+29,0,Bachelor,Data Scientist,Python,1,10000.0
+21,1,High school,Unemployed,R,1,10000.0
+32,1,Diploma/ Advanced Diploma,Other,R,1,10000.0
+21,1,Masters,Software Engineer,Python,5,10000.0
+32,0,Bachelor,Unemployed,Python,1,10000.0
+29,1,PhD,Statistician,C,1,60000.0
+28,1,Masters,Data Engineer,R,1,20000.0
+32,1,Masters,Business Analyst,Python,1,10000.0
+33,1,PhD,Data Analyst,C,1,10000.0
+32,0,PhD,Unemployed,Python,1,10000.0
+30,1,Bachelor,Unemployed,C,1,20000.0
+33,1,Bachelor,Data Analyst,R,1,10000.0
+34,1,Bachelor,Data Scientist,C,1,10000.0
+26,0,Diploma/ Advanced Diploma,Data Scientist,Python,9,20000.0
+38,1,Diploma/ Advanced Diploma,Database Engineer,R,1,10000.0
+34,1,PhD,Software Engineer,Python,1,10000.0
+38,1,Bachelor,Statistician,R,1,10000.0
+30,1,Masters,Business Analyst,Python,1,10000.0
+30,1,Bachelor,Unemployed,Python,1,20000.0
+30,0,Masters,Software Engineer,Python,1,10000.0
+22,0,Diploma/ Advanced Diploma,Software Engineer,R,3,30000.0
+38,0,Masters,Unemployed,PHP,1,10000.0
+28,1,Bachelor,Software Engineer,PHP,1,10000.0
+38,1,High school,Unemployed,Python,1,40000.0
+28,0,Bachelor,Unemployed,Python,1,10000.0
+25,1,Bachelor,Data Analyst,R,8,10000.0
+20,1,Masters,Unemployed,Python,1,10000.0
+29,1,Bachelor,Data Scientist,R,1,10000.0
+25,1,Bachelor,Unemployed,Python,1,10000.0
+31,1,Masters,Software Engineer,R,1,10000.0
+38,1,PhD,Data Analyst,PHP,1,10000.0
+33,1,Bachelor,Unemployed,Python,1,10000.0
+33,1,Masters,Business Analyst,Python,1,20000.0
+29,1,Bachelor,Data Scientist,Python,1,10000.0
+38,1,Masters,Data Scientist,PHP,1,20000.0
+28,1,PhD,Data Analyst,Python,1,10000.0
+28,1,Diploma/ Advanced Diploma,Software Engineer,R,1,10000.0
+29,1,Bachelor,Data Engineer,C,1,10000.0
+26,1,Diploma/ Advanced Diploma,Software Engineer,Python,1,10000.0
+27,1,Bachelor,Data Analyst,R,1,10000.0
+22,0,Masters,Unemployed,Python,4,10000.0
+27,1,Bachelor,Software Engineer,R,1,10000.0
+38,0,Bachelor,Database Engineer,Python,1,10000.0
+21,1,Masters,Software Engineer,Python,9,10000.0
+38,0,Bachelor,Software Engineer,R,1,10000.0
+27,1,Masters,Unemployed,C,1,10000.0
+33,0,Masters,Data Analyst,Python,1,10000.0
+38,1,Bachelor,Data Engineer,Python,1,10000.0
+39,1,Bachelor,Software Engineer,PHP,1,10000.0
+31,0,Bachelor,Software Engineer,Python,1,10000.0
+24,0,Diploma/ Advanced Diploma,Data Analyst,Python,7,10000.0
+25,0,PhD,Database Engineer,Python,5,10000.0
+28,0,High school,Unemployed,Python,1,10000.0
+21,0,Masters,Software Engineer,Python,6,10000.0
+27,1,Diploma/ Advanced Diploma,Data Analyst,Python,1,10000.0
+24,0,Masters,Unemployed,C,1,20000.0
+31,0,Masters,Statistician,Python,1,10000.0
+27,1,Masters,Software Engineer,Python,1,10000.0
+22,1,PhD,Data Analyst,R,5,10000.0
+21,1,Masters,Data Engineer,Python,3,10000.0
+30,0,Bachelor,Software Engineer,Python,1,10000.0
+27,1,Bachelor,Software Engineer,Python,1,10000.0
+38,1,Diploma/ Advanced Diploma,Unemployed,R,1,10000.0
+26,0,Masters,Business Analyst,R,1,10000.0
+30,0,Masters,Database Engineer,PHP,1,10000.0
+23,0,Bachelor,Data Scientist,Python,1,10000.0
+28,1,Diploma/ Advanced Diploma,Software Engineer,R,1,10000.0
+34,0,Bachelor,Business Analyst,Python,1,10000.0
+26,1,Masters,Software Engineer,PHP,1,20000.0
+23,1,Bachelor,Data Analyst,R,3,20000.0
+25,1,PhD,Data Scientist,R,5,10000.0
+38,1,PhD,Data Engineer,C,1,10000.0
+23,1,Masters,Data Engineer,R,5,10000.0
+21,0,Masters,Data Engineer,PHP,7,10000.0
+26,1,Diploma/ Advanced Diploma,Business Analyst,R,1,20000.0
+26,0,Diploma/ Advanced Diploma,Data Analyst,Python,1,10000.0
+23,1,Bachelor,Data Scientist,Python,3,10000.0
+31,0,Diploma/ Advanced Diploma,Statistician,PHP,1,20000.0
+22,1,Bachelor,Software Engineer,Python,3,40000.0
+29,1,PhD,Business Analyst,Python,1,10000.0
+29,1,Masters,Unemployed,R,1,10000.0
+27,0,Bachelor,Statistician,C,1,10000.0
+22,0,Masters,Software Engineer,PHP,2,10000.0
+30,1,Masters,Business Analyst,Python,1,10000.0
+26,1,Bachelor,Data Scientist,Python,1,10000.0
+38,1,Diploma/ Advanced Diploma,Data Analyst,R,1,10000.0
+33,1,Masters,Unemployed,Python,1,20000.0
+25,0,Diploma/ Advanced Diploma,Statistician,PHP,1,10000.0
+29,1,Bachelor,Unemployed,Python,1,10000.0
+23,1,Bachelor,Data Analyst,Python,1,20000.0
+21,1,PhD,Software Engineer,Python,5,10000.0
+25,1,PhD,Software Engineer,R,5,10000.0
+24,1,Masters,Unemployed,R,7,10000.0
+30,0,PhD,Data Scientist,C,1,10000.0
+29,1,Bachelor,Database Engineer,Python,1,10000.0
+28,1,Diploma/ Advanced Diploma,Database Engineer,Python,1,10000.0
+25,1,PhD,Software Engineer,Python,1,10000.0
+24,0,Bachelor,Data Scientist,Python,4,10000.0
+27,1,Masters,Software Engineer,PHP,1,10000.0
+38,1,Masters,Unemployed,Python,1,10000.0
+25,0,Bachelor,Statistician,R,1,10000.0
+27,0,Diploma/ Advanced Diploma,Data Analyst,Python,1,10000.0
+33,1,High school,Software Engineer,Python,1,20000.0
+26,0,PhD,Data Analyst,Python,1,10000.0
+23,0,High school,Unemployed,PHP,1,10000.0
+26,1,PhD,Data Scientist,Python,10,10000.0
+31,1,PhD,Software Engineer,Python,1,10000.0
+33,1,Masters,Data Analyst,R,1,10000.0
+27,1,Bachelor,Data Analyst,Python,1,10000.0
+26,1,Bachelor,Unemployed,R,1,10000.0
+23,1,PhD,Data Engineer,PHP,4,10000.0
+38,1,Masters,Business Analyst,PHP,1,10000.0
+21,1,Masters,Data Analyst,PHP,5,10000.0
+38,0,Diploma/ Advanced Diploma,Software Engineer,Python,1,10000.0
+23,0,Bachelor,Data Analyst,Python,5,20000.0
+38,1,Diploma/ Advanced Diploma,Data Engineer,R,1,10000.0
+26,0,Bachelor,Data Engineer,PHP,1,10000.0
+20,1,Diploma/ Advanced Diploma,Software Engineer,Python,2,10000.0
+22,0,Bachelor,Business Analyst,R,4,10000.0
+38,1,Bachelor,Unemployed,Python,1,10000.0
+23,1,Bachelor,Software Engineer,Python,1,10000.0
+24,0,Bachelor,Data Analyst,Python,5,10000.0
+40,0,PhD,Database Engineer,Python,1,10000.0
+23,0,Diploma/ Advanced Diploma,Software Engineer,Python,3,20000.0
+24,1,Bachelor,Unemployed,C,5,10000.0
+23,1,PhD,Data Scientist,Python,3,10000.0
+23,0,Bachelor,Data Scientist,Python,1,10000.0
+25,0,Diploma/ Advanced Diploma,Data Analyst,PHP,6,10000.0
+24,1,Masters,Data Scientist,Python,6,10000.0
+29,1,Bachelor,Business Analyst,Python,1,10000.0
+27,1,Bachelor,Business Analyst,Python,1,10000.0
+38,1,Diploma/ Advanced Diploma,Unemployed,Python,1,30000.0
+31,1,Masters,Software Engineer,C,1,10000.0
+24,1,Bachelor,Data Engineer,PHP,5,10000.0
+28,1,PhD,Unemployed,Python,1,10000.0
+35,1,High school,Statistician,Python,1,10000.0
+26,1,Bachelor,Data Engineer,C,7,10000.0
+27,1,Bachelor,Business Analyst,Python,1,10000.0
+27,0,Bachelor,Software Engineer,Python,1,10000.0
+27,1,Bachelor,Statistician,C,1,10000.0
+38,1,Bachelor,Data Scientist,Python,1,10000.0
+25,1,PhD,Data Analyst,Python,1,10000.0
+20,1,Bachelor,Data Analyst,Python,3,10000.0
+36,0,Masters,Data Scientist,R,1,10000.0
+23,1,Diploma/ Advanced Diploma,Data Engineer,Python,1,10000.0
+20,1,Bachelor,Data Analyst,R,3,10000.0
+28,1,Masters,Data Analyst,PHP,1,10000.0
+32,0,Masters,Data Analyst,Python,1,10000.0
+25,0,Bachelor,Business Analyst,Python,7,10000.0
+23,0,Masters,Unemployed,R,7,10000.0
+33,1,PhD,Business Analyst,R,1,10000.0
+34,0,Masters,Software Engineer,C,1,10000.0
+31,1,PhD,Software Engineer,Python,1,10000.0
+29,1,Bachelor,Data Engineer,PHP,1,10000.0
+34,0,Diploma/ Advanced Diploma,Unemployed,R,1,10000.0
+38,0,Bachelor,Software Engineer,Python,1,10000.0
+22,0,PhD,Unemployed,R,4,10000.0
+21,0,High school,Business Analyst,Python,1,10000.0
+34,0,Bachelor,Data Scientist,Python,1,10000.0
+38,1,PhD,Data Analyst,Python,1,70000.0
+37,1,Masters,Unemployed,Python,1,10000.0
+38,1,Masters,Data Analyst,R,1,10000.0
+21,1,Masters,Data Engineer,PHP,3,10000.0
+22,0,Bachelor,Database Engineer,Python,8,10000.0
+23,1,Bachelor,Data Engineer,R,4,10000.0
+28,1,Bachelor,Software Engineer,C,1,10000.0
+33,1,Masters,Statistician,Python,1,10000.0
+29,1,Masters,Data Analyst,Python,1,10000.0
+25,0,PhD,Software Engineer,Python,5,10000.0
+28,1,Masters,Data Scientist,Python,1,10000.0
+38,1,High school,Other,Python,1,10000.0
+38,0,High school,Database Engineer,Python,1,10000.0
+34,0,Diploma/ Advanced Diploma,Software Engineer,Python,1,10000.0
+23,1,Bachelor,Business Analyst,Python,6,10000.0
+27,0,Bachelor,Business Analyst,R,1,10000.0
+22,1,Diploma/ Advanced Diploma,Data Engineer,Python,2,10000.0
+25,1,PhD,Data Analyst,Python,7,20000.0
+22,1,Bachelor,Unemployed,Python,1,10000.0
+25,0,Masters,Software Engineer,R,1,10000.0
+20,1,Masters,Unemployed,PHP,1,10000.0
+20,0,Bachelor,Unemployed,Python,6,10000.0
+24,1,High school,Software Engineer,C,6,60000.0
+38,1,PhD,Statistician,R,1,20000.0
+35,1,Masters,Unemployed,C,1,10000.0
+24,1,Diploma/ Advanced Diploma,Data Scientist,PHP,1,10000.0
+24,0,Bachelor,Business Analyst,Python,1,10000.0
+26,1,Bachelor,Data Scientist,C,1,10000.0
+26,0,Masters,Business Analyst,Python,1,20000.0
+32,1,PhD,Unemployed,Python,1,10000.0
+27,1,Bachelor,Statistician,Python,1,10000.0
+25,1,Diploma/ Advanced Diploma,Data Engineer,Python,1,10000.0
+26,1,High school,Unemployed,Python,7,10000.0
+22,1,Bachelor,Statistician,Python,2,10000.0
+38,1,Bachelor,Data Engineer,Python,1,10000.0
+22,1,Bachelor,Software Engineer,Python,1,10000.0
+24,1,Masters,Data Analyst,Python,6,20000.0
+28,1,Masters,Software Engineer,R,1,10000.0
+37,1,Bachelor,Software Engineer,Python,1,10000.0
+26,0,PhD,Unemployed,Python,1,10000.0
+30,1,Masters,Business Analyst,Python,1,10000.0
+24,1,Bachelor,Statistician,Python,6,10000.0
+20,1,Diploma/ Advanced Diploma,Unemployed,Python,5,10000.0
+32,1,Diploma/ Advanced Diploma,Data Scientist,C,1,10000.0
+32,1,Bachelor,Data Engineer,R,1,40000.0
+30,1,Bachelor,Other,Python,1,10000.0
+23,0,PhD,Software Engineer,R,8,10000.0
+38,0,Bachelor,Statistician,Python,1,10000.0
+25,1,Masters,Data Scientist,Python,1,10000.0
+27,1,Bachelor,Software Engineer,C,1,10000.0
+22,1,Bachelor,Business Analyst,Python,1,10000.0
+24,1,PhD,Business Analyst,C,1,30000.0
+38,1,PhD,Software Engineer,Python,1,10000.0
+35,1,Bachelor,Unemployed,R,1,20000.0
+38,0,Masters,Software Engineer,Python,1,10000.0
+28,1,Bachelor,Software Engineer,Python,1,20000.0
+23,1,Bachelor,Unemployed,R,4,10000.0
+31,1,Masters,Data Analyst,PHP,1,10000.0
+33,1,Bachelor,Unemployed,C,1,10000.0
+34,1,Masters,Business Analyst,Python,1,10000.0
+33,1,PhD,Data Scientist,C,1,10000.0
+28,1,PhD,Business Analyst,Python,1,10000.0
+25,0,PhD,Business Analyst,Python,1,10000.0
+26,1,PhD,Data Scientist,Python,1,10000.0
+26,1,Bachelor,Data Analyst,Python,1,10000.0
+26,1,Bachelor,Statistician,Python,1,10000.0
+28,0,PhD,Business Analyst,R,8,10000.0
+30,1,Masters,Data Analyst,Python,1,10000.0
+27,1,PhD,Data Analyst,Python,1,10000.0
+27,1,Bachelor,Unemployed,Python,1,10000.0
+23,1,High school,Data Scientist,Python,1,10000.0
+28,1,Diploma/ Advanced Diploma,Database Engineer,Python,1,10000.0
+24,0,Bachelor,Unemployed,R,7,10000.0
+20,0,Masters,Data Scientist,R,3,10000.0
+28,0,Masters,Statistician,Python,1,30000.0
+22,1,Masters,Data Analyst,PHP,4,10000.0
+23,0,Masters,Data Analyst,R,8,10000.0
+38,1,Diploma/ Advanced Diploma,Statistician,Python,1,10000.0
+38,0,PhD,Database Engineer,PHP,1,10000.0
+25,1,Masters,Software Engineer,Python,1,10000.0
+21,1,PhD,Data Scientist,C,2,10000.0
+20,0,Bachelor,Statistician,Python,3,10000.0
+26,1,Diploma/ Advanced Diploma,Data Scientist,Python,1,10000.0
+22,1,Bachelor,Data Engineer,R,6,10000.0
+30,1,PhD,Data Scientist,PHP,1,30000.0
+23,0,Bachelor,Software Engineer,Python,6,30000.0
+28,1,Bachelor,Unemployed,R,1,10000.0
+27,1,High school,Software Engineer,Python,9,10000.0
+33,1,Masters,Data Scientist,R,1,10000.0
+31,1,Bachelor,Database Engineer,R,1,10000.0
+24,0,Bachelor,Data Scientist,Python,6,10000.0
+27,1,Masters,Software Engineer,Python,8,10000.0
+23,1,Bachelor,Software Engineer,Python,1,10000.0
+33,1,Bachelor,Business Analyst,R,1,10000.0
+24,1,Masters,Statistician,Python,5,10000.0
+23,1,Masters,Business Analyst,Python,5,10000.0
+27,1,Diploma/ Advanced Diploma,Software Engineer,Python,1,10000.0
+20,1,Masters,Database Engineer,Python,7,10000.0
+23,0,Diploma/ Advanced Diploma,Software Engineer,Python,4,10000.0
+23,1,Bachelor,Software Engineer,PHP,1,10000.0
+27,1,Masters,Database Engineer,R,8,20000.0
+22,1,Bachelor,Unemployed,PHP,5,10000.0
+29,1,PhD,Data Scientist,C,1,10000.0
+22,1,Bachelor,Software Engineer,R,4,10000.0
+30,0,Diploma/ Advanced Diploma,Unemployed,Python,1,10000.0
+38,1,Bachelor,Software Engineer,Python,1,10000.0
+25,1,PhD,Unemployed,Python,1,10000.0
+22,1,PhD,Data Scientist,PHP,3,10000.0
+24,1,Masters,Business Analyst,R,5,10000.0
+26,0,Bachelor,Business Analyst,Python,1,10000.0
+38,1,Masters,Software Engineer,PHP,1,10000.0
+32,1,Masters,Database Engineer,Python,1,10000.0
+22,1,Bachelor,Data Scientist,C,4,10000.0
+30,1,Diploma/ Advanced Diploma,Data Scientist,Python,1,10000.0
+27,1,PhD,Data Analyst,Python,1,10000.0
+20,1,PhD,Software Engineer,Python,2,10000.0
+25,0,PhD,Data Engineer,C,1,10000.0
+21,1,Bachelor,Statistician,R,4,20000.0
+22,1,Bachelor,Unemployed,C,1,10000.0
+24,1,Diploma/ Advanced Diploma,Statistician,C,1,10000.0
+23,1,Diploma/ Advanced Diploma,Database Engineer,Python,4,10000.0
+25,1,Bachelor,Business Analyst,R,8,10000.0
+25,1,Bachelor,Business Analyst,C,8,10000.0
+32,1,High school,Data Engineer,Python,1,10000.0
+26,0,Masters,Software Engineer,Python,6,10000.0
+27,1,Masters,Data Scientist,Python,1,10000.0
+25,1,PhD,Data Analyst,R,6,10000.0
+29,1,Diploma/ Advanced Diploma,Business Analyst,C,1,10000.0
+35,1,PhD,Data Engineer,C,1,10000.0
+30,0,PhD,Data Analyst,Python,1,10000.0
+31,1,PhD,Data Scientist,Python,1,10000.0
+29,0,Bachelor,Unemployed,R,1,10000.0
+25,0,Bachelor,Other,Python,1,10000.0
+24,1,Bachelor,Database Engineer,Python,5,10000.0
+33,0,Bachelor,Unemployed,Python,1,10000.0
+33,0,Bachelor,Business Analyst,R,1,10000.0
+28,1,Diploma/ Advanced Diploma,Software Engineer,PHP,1,10000.0
+26,0,PhD,Software Engineer,Python,1,10000.0
+31,1,PhD,Unemployed,Python,1,10000.0
+38,1,Masters,Software Engineer,R,1,10000.0
+27,1,Bachelor,Data Engineer,Python,1,10000.0
+30,1,Masters,Statistician,R,1,10000.0
+24,1,Masters,Statistician,Python,1,10000.0
+29,0,Masters,Software Engineer,PHP,1,10000.0
+22,1,PhD,Data Analyst,Python,2,10000.0
+26,0,PhD,Data Engineer,R,1,10000.0
+27,1,Bachelor,Software Engineer,Python,1,10000.0
+30,1,Bachelor,Data Analyst,PHP,1,10000.0
+24,1,Bachelor,Unemployed,PHP,1,10000.0
+24,0,Diploma/ Advanced Diploma,Data Analyst,R,1,10000.0
+37,1,PhD,Statistician,C,1,10000.0
+27,0,Bachelor,Software Engineer,C,1,10000.0
+38,0,Bachelor,Data Engineer,Python,1,10000.0
+38,1,Bachelor,Data Analyst,PHP,1,20000.0
+24,1,Bachelor,Data Analyst,Python,1,10000.0
+26,1,Masters,Data Engineer,Python,1,10000.0
+26,0,Masters,Data Analyst,C,1,10000.0
+25,1,Diploma/ Advanced Diploma,Data Analyst,R,1,40000.0
+34,1,Diploma/ Advanced Diploma,Data Engineer,R,1,10000.0
+36,1,Masters,Unemployed,Python,1,10000.0
+28,1,Bachelor,Data Analyst,Python,1,10000.0
+27,1,Bachelor,Data Analyst,Python,1,10000.0
+24,1,Masters,Statistician,Python,4,10000.0
+21,0,Masters,Business Analyst,Python,2,10000.0
+30,0,Masters,Software Engineer,Python,1,10000.0
+26,1,Bachelor,Statistician,R,1,10000.0
+38,0,Bachelor,Software Engineer,PHP,1,10000.0
+35,1,Masters,Data Engineer,R,1,10000.0
+24,0,Bachelor,Business Analyst,Python,4,10000.0
+38,0,Masters,Software Engineer,Python,1,10000.0
+27,0,PhD,Unemployed,Python,7,10000.0
+32,1,Diploma/ Advanced Diploma,Data Scientist,Python,1,30000.0
+38,1,PhD,Data Analyst,Python,1,10000.0
+35,1,Bachelor,Business Analyst,PHP,1,10000.0
+21,0,Masters,Data Scientist,Python,1,10000.0
+23,1,Bachelor,Unemployed,Python,1,10000.0
+38,0,PhD,Statistician,Python,1,20000.0
+27,1,Masters,Data Scientist,Python,1,10000.0
+24,1,Diploma/ Advanced Diploma,Unemployed,R,4,10000.0
+28,1,Bachelor,Unemployed,R,1,10000.0
+38,0,PhD,Software Engineer,Python,1,10000.0
+36,1,Bachelor,Data Engineer,C,1,20000.0
+38,1,PhD,Software Engineer,Python,1,10000.0
+25,1,High school,Unemployed,Python,1,10000.0
+23,1,Bachelor,Business Analyst,Python,1,20000.0
+30,0,Masters,Data Scientist,R,1,10000.0
+30,0,Bachelor,Data Engineer,Python,1,10000.0
+26,1,Bachelor,Data Analyst,Python,1,10000.0
+24,1,Diploma/ Advanced Diploma,Unemployed,Python,1,10000.0
+20,0,Masters,Unemployed,Python,2,10000.0
+20,1,PhD,Unemployed,Python,5,60000.0
+22,1,Bachelor,Data Analyst,Python,1,10000.0
+21,1,PhD,Software Engineer,Python,4,30000.0
+30,1,PhD,Unemployed,C,1,30000.0
+20,1,Diploma/ Advanced Diploma,Business Analyst,Python,6,10000.0
+22,0,Diploma/ Advanced Diploma,Data Scientist,R,3,10000.0
+38,1,Bachelor,Data Analyst,PHP,1,10000.0
+27,1,Bachelor,Data Analyst,Python,1,20000.0
+34,0,Masters,Software Engineer,Python,1,10000.0
+28,1,Diploma/ Advanced Diploma,Statistician,C,1,100000.0
+29,0,Bachelor,Data Analyst,Python,1,10000.0
+20,0,Bachelor,Data Analyst,Python,2,10000.0
+23,1,Masters,Data Scientist,R,3,10000.0
+38,1,Masters,Data Analyst,Python,1,20000.0
+38,1,PhD,Data Analyst,PHP,1,10000.0
+29,1,Bachelor,Software Engineer,Python,1,10000.0
+26,1,Diploma/ Advanced Diploma,Software Engineer,Python,1,10000.0
+24,1,Diploma/ Advanced Diploma,Data Analyst,R,5,10000.0
+32,1,Bachelor,Data Analyst,Python,1,10000.0
+38,1,PhD,Data Analyst,C,1,10000.0
+30,1,Masters,Software Engineer,Python,1,10000.0
+24,1,High school,Data Engineer,PHP,5,10000.0
+21,1,Diploma/ Advanced Diploma,Unemployed,Python,5,10000.0
+24,1,Bachelor,Data Engineer,Python,6,10000.0
+23,1,Diploma/ Advanced Diploma,Business Analyst,R,4,20000.0
+31,1,Masters,Software Engineer,R,1,10000.0
+27,1,Bachelor,Unemployed,R,1,20000.0
+24,1,High school,Unemployed,Python,1,20000.0
+23,1,Bachelor,Data Scientist,Python,1,10000.0
+32,0,Masters,Data Analyst,Python,1,10000.0
+23,0,Masters,Unemployed,Python,3,20000.0
+21,1,Bachelor,Database Engineer,C,2,10000.0
+23,1,Masters,Data Analyst,C,9,10000.0
+22,1,Bachelor,Data Engineer,Python,5,10000.0
+21,1,PhD,Business Analyst,PHP,3,10000.0
+32,1,Masters,Data Analyst,Python,1,10000.0
+30,0,Masters,Unemployed,R,1,10000.0
+23,1,Masters,Data Analyst,Python,5,10000.0
+25,1,Masters,Data Scientist,Python,1,10000.0
+24,0,Bachelor,Data Scientist,C,1,10000.0
+28,0,Diploma/ Advanced Diploma,Unemployed,Python,1,20000.0
+29,0,Diploma/ Advanced Diploma,Business Analyst,Python,1,20000.0
+20,1,Bachelor,Statistician,R,6,10000.0
+31,1,Bachelor,Data Engineer,PHP,1,10000.0
+38,0,Diploma/ Advanced Diploma,Software Engineer,C,1,20000.0
+25,1,Masters,Data Analyst,Python,5,10000.0
+22,1,Bachelor,Other,Python,3,10000.0
+27,1,Bachelor,Business Analyst,Python,1,10000.0
+21,1,Masters,Unemployed,PHP,5,10000.0
+30,0,PhD,Data Analyst,Python,1,20000.0
+32,1,Bachelor,Database Engineer,Python,1,10000.0
+30,0,PhD,Business Analyst,Python,1,10000.0
+28,1,Bachelor,Unemployed,Python,1,30000.0
+27,1,Diploma/ Advanced Diploma,Business Analyst,PHP,1,10000.0
+24,1,PhD,Data Analyst,PHP,1,10000.0
+29,0,Bachelor,Data Analyst,Python,1,10000.0
+38,1,Masters,Statistician,Python,1,10000.0
+24,1,Masters,Data Scientist,R,1,10000.0
+38,0,Masters,Software Engineer,R,1,20000.0
+28,0,Masters,Data Engineer,Python,1,20000.0
+38,1,Bachelor,Software Engineer,Python,1,10000.0
+30,1,Masters,Software Engineer,R,1,10000.0
+30,1,PhD,Database Engineer,Python,1,10000.0
+20,1,Masters,Database Engineer,Python,3,10000.0
+28,1,Bachelor,Business Analyst,R,1,10000.0
+29,0,Bachelor,Software Engineer,PHP,1,10000.0
+38,0,Masters,Unemployed,R,1,10000.0
+24,1,PhD,Business Analyst,Python,1,10000.0
+26,0,High school,Data Engineer,Python,1,10000.0
+28,1,Masters,Software Engineer,C,1,10000.0
+22,1,Bachelor,Data Scientist,R,3,10000.0
+30,0,High school,Statistician,Python,1,10000.0
+22,1,Bachelor,Business Analyst,Python,2,10000.0
+26,1,PhD,Data Scientist,R,1,10000.0
+29,0,Bachelor,Other,R,1,10000.0
+31,1,Masters,Data Scientist,Python,1,10000.0
+27,1,Bachelor,Business Analyst,PHP,1,10000.0
+25,1,Masters,Data Scientist,R,1,10000.0
+28,1,Bachelor,Software Engineer,R,1,10000.0
+25,1,Bachelor,Unemployed,R,1,10000.0
+24,0,Masters,Data Engineer,Python,5,10000.0
+25,1,PhD,Statistician,Python,1,10000.0
+38,1,High school,Data Scientist,R,1,120000.0
+22,1,PhD,Business Analyst,Python,8,10000.0
+38,0,Bachelor,Data Scientist,C,1,10000.0
+38,1,PhD,Database Engineer,R,1,60000.0
+24,1,PhD,Business Analyst,Python,7,10000.0
+28,1,Bachelor,Database Engineer,PHP,1,10000.0
+22,0,Masters,Software Engineer,Python,8,10000.0
+21,1,Masters,Statistician,C,8,10000.0
+27,1,Diploma/ Advanced Diploma,Software Engineer,PHP,1,10000.0
+22,0,PhD,Unemployed,Python,4,20000.0
+28,1,Masters,Business Analyst,Python,1,20000.0
+28,1,Bachelor,Data Scientist,Python,1,10000.0
+26,1,PhD,Data Scientist,Python,11,40000.0
+26,0,Bachelor,Software Engineer,R,1,10000.0
+24,0,High school,Software Engineer,Python,1,10000.0
+25,1,Bachelor,Software Engineer,C,5,10000.0
+24,1,Diploma/ Advanced Diploma,Data Scientist,Python,1,10000.0
+38,1,Bachelor,Statistician,Python,1,10000.0
+24,1,High school,Unemployed,Python,4,10000.0
+24,1,PhD,Business Analyst,R,6,10000.0
+22,0,Masters,Software Engineer,Python,1,10000.0
+29,0,Masters,Data Analyst,Python,1,10000.0
+30,1,PhD,Data Analyst,Python,1,10000.0
+26,0,Bachelor,Unemployed,Python,1,10000.0
+24,1,Bachelor,Software Engineer,Python,4,30000.0
+23,0,Diploma/ Advanced Diploma,Software Engineer,Python,8,10000.0
+27,1,PhD,Statistician,Python,1,10000.0
+20,1,Bachelor,Data Scientist,Python,1,10000.0
+30,0,Bachelor,Unemployed,Python,1,10000.0
+38,1,Bachelor,Data Analyst,Python,1,10000.0
+27,1,PhD,Software Engineer,C,7,20000.0
+29,1,Bachelor,Data Engineer,Python,1,50000.0
+31,1,PhD,Data Analyst,R,1,20000.0
+23,0,Bachelor,Software Engineer,Python,1,10000.0
+28,0,Masters,Data Scientist,R,1,10000.0
+38,0,Bachelor,Software Engineer,Python,1,10000.0
+25,1,Bachelor,Software Engineer,PHP,1,10000.0
+24,0,Masters,Software Engineer,Python,1,20000.0
+27,0,Masters,Software Engineer,Python,1,10000.0
+32,1,Bachelor,Business Analyst,PHP,1,10000.0
+23,0,Masters,Data Engineer,C,3,10000.0
+24,1,Masters,Statistician,Python,5,10000.0
+24,0,PhD,Data Analyst,R,4,10000.0
+31,1,PhD,Software Engineer,Python,1,10000.0
+30,0,Masters,Software Engineer,Python,1,30000.0
+30,1,Masters,Data Analyst,Python,1,10000.0
+24,1,PhD,Software Engineer,Python,5,10000.0
+24,0,Diploma/ Advanced Diploma,Statistician,Python,5,10000.0
+25,1,High school,Software Engineer,Python,1,10000.0
+26,0,Masters,Unemployed,Python,7,10000.0
+24,1,PhD,Data Scientist,Python,1,10000.0
+26,0,Masters,Database Engineer,Python,1,10000.0
+38,1,Masters,Data Scientist,R,1,20000.0
+21,1,Bachelor,Database Engineer,Python,6,10000.0
+36,1,Diploma/ Advanced Diploma,Business Analyst,Python,1,20000.0
+28,1,PhD,Business Analyst,Python,1,10000.0
+28,1,PhD,Statistician,Python,1,20000.0
+26,1,Masters,Other,Python,1,20000.0
+25,0,PhD,Software Engineer,Python,1,10000.0
+38,1,Diploma/ Advanced Diploma,Software Engineer,R,1,10000.0
+23,1,Diploma/ Advanced Diploma,Data Scientist,Python,5,10000.0
+25,0,Diploma/ Advanced Diploma,Unemployed,C,1,10000.0
+26,1,Masters,Unemployed,PHP,1,20000.0
+38,0,PhD,Database Engineer,R,1,10000.0
+21,1,Bachelor,Data Engineer,Python,1,10000.0
+22,1,Bachelor,Data Engineer,Python,6,20000.0
+22,0,Bachelor,Unemployed,Python,6,10000.0
+24,1,Masters,Software Engineer,Python,4,30000.0
+28,0,Bachelor,Business Analyst,C,1,20000.0
+30,0,Bachelor,Unemployed,C,1,20000.0
+24,0,Bachelor,Data Scientist,Python,1,10000.0
+30,1,Bachelor,Data Scientist,Python,1,10000.0
+38,0,Masters,Database Engineer,Python,1,20000.0
+25,0,Bachelor,Statistician,Python,1,10000.0
+38,0,Bachelor,Business Analyst,Python,1,10000.0
+38,1,Masters,Unemployed,C,1,10000.0
+38,1,Bachelor,Unemployed,Python,1,10000.0
+21,1,High school,Software Engineer,Python,3,10000.0
+39,0,Masters,Data Scientist,Python,1,10000.0
+36,0,Masters,Database Engineer,Python,1,10000.0
+25,0,PhD,Business Analyst,C,1,20000.0
+27,1,Bachelor,Data Scientist,Python,1,10000.0
+31,1,Masters,Data Scientist,Python,1,10000.0
+37,1,Diploma/ Advanced Diploma,Business Analyst,Python,1,10000.0
+21,1,PhD,Data Engineer,Python,4,10000.0
+21,1,Bachelor,Statistician,R,4,20000.0
+38,0,Bachelor,Data Scientist,PHP,1,30000.0
+27,1,Bachelor,Unemployed,PHP,7,20000.0
+25,1,Bachelor,Other,Python,1,10000.0
+23,1,Bachelor,Software Engineer,PHP,3,10000.0
+28,0,Masters,Database Engineer,R,1,10000.0
+25,1,Masters,Unemployed,Python,5,40000.0
+23,0,Masters,Unemployed,R,1,10000.0
+24,1,Bachelor,Other,R,4,10000.0
+30,1,Masters,Software Engineer,Python,1,10000.0
+24,0,Masters,Data Engineer,PHP,1,10000.0
+20,1,Bachelor,Data Scientist,R,9,10000.0
+38,1,Masters,Unemployed,C,1,10000.0
+32,0,PhD,Data Analyst,Python,1,10000.0
+20,0,Bachelor,Software Engineer,Python,0,10000.0
+27,0,Bachelor,Software Engineer,Python,1,10000.0
+38,0,Bachelor,Software Engineer,R,1,10000.0
+24,1,Masters,Statistician,Python,6,10000.0
+24,0,Masters,Software Engineer,PHP,8,60000.0
+32,1,Diploma/ Advanced Diploma,Business Analyst,Python,1,10000.0
+22,1,PhD,Software Engineer,Python,4,10000.0
+23,0,Bachelor,Unemployed,Python,1,10000.0
+28,1,Masters,Data Scientist,C,1,10000.0
+29,0,Bachelor,Database Engineer,Python,1,10000.0
+35,1,Masters,Data Analyst,Python,1,10000.0
+26,0,Diploma/ Advanced Diploma,Data Analyst,Python,6,20000.0
+31,0,Bachelor,Software Engineer,Python,1,10000.0
+23,0,Bachelor,Software Engineer,R,1,10000.0
+23,1,High school,Statistician,Python,5,10000.0
+31,0,Bachelor,Data Analyst,Python,1,10000.0
+26,0,Masters,Unemployed,R,1,10000.0
+31,1,Masters,Statistician,R,1,10000.0
+22,1,Bachelor,Unemployed,Python,5,10000.0
+27,0,Masters,Software Engineer,C,1,10000.0
+30,0,Masters,Unemployed,Python,1,10000.0
+30,1,Bachelor,Data Analyst,Python,1,10000.0
+26,0,Bachelor,Software Engineer,PHP,1,20000.0
+29,1,Bachelor,Software Engineer,Python,1,10000.0
+21,1,Bachelor,Unemployed,Python,3,10000.0
+30,1,Diploma/ Advanced Diploma,Data Analyst,Python,1,10000.0
+23,1,Bachelor,Unemployed,Python,5,10000.0
+28,1,High school,Business Analyst,Python,1,10000.0
+21,0,Bachelor,Unemployed,Python,10,10000.0
+33,0,Masters,Data Scientist,R,1,10000.0
+29,1,Bachelor,Database Engineer,R,1,10000.0
+32,1,Masters,Software Engineer,Python,1,10000.0
+20,1,Bachelor,Unemployed,R,4,10000.0
+24,1,Bachelor,Business Analyst,Python,6,10000.0
+32,1,High school,Business Analyst,R,1,10000.0
+38,1,Bachelor,Software Engineer,Python,1,10000.0
+22,1,Masters,Software Engineer,Python,10,10000.0
+29,0,Bachelor,Software Engineer,Python,1,20000.0
+33,1,Masters,Business Analyst,R,1,10000.0
+22,1,Bachelor,Data Scientist,Python,3,10000.0
+27,0,PhD,Statistician,Python,1,10000.0
+27,0,Masters,Statistician,Python,1,10000.0
+23,1,PhD,Data Scientist,Python,1,10000.0
+38,1,Diploma/ Advanced Diploma,Business Analyst,Python,1,10000.0
+36,1,Masters,Unemployed,Python,1,10000.0
+32,1,Masters,Database Engineer,Python,1,10000.0
+26,1,Masters,Statistician,Python,1,10000.0
+28,0,Bachelor,Data Scientist,PHP,1,10000.0
+38,1,Bachelor,Unemployed,PHP,1,10000.0
+25,1,Bachelor,Unemployed,Python,5,10000.0
+23,0,Masters,Software Engineer,R,4,10000.0
+30,1,PhD,Software Engineer,R,1,10000.0
+21,0,Bachelor,Data Scientist,Python,9,10000.0
+32,0,Diploma/ Advanced Diploma,Software Engineer,C,1,10000.0
+21,1,Diploma/ Advanced Diploma,Software Engineer,R,3,20000.0
+32,0,Bachelor,Statistician,Python,1,10000.0
+25,1,Bachelor,Other,R,1,30000.0
+23,1,Bachelor,Unemployed,Python,1,20000.0
+22,0,Masters,Statistician,Python,4,10000.0
+38,0,Bachelor,Database Engineer,Python,1,10000.0
+34,1,Masters,Unemployed,C,1,10000.0
+38,1,Masters,Unemployed,Python,1,10000.0
+29,1,Masters,Software Engineer,Python,1,10000.0
+25,1,Masters,Database Engineer,R,1,10000.0
+25,0,Bachelor,Data Scientist,PHP,5,10000.0
+21,1,Diploma/ Advanced Diploma,Database Engineer,R,4,10000.0
+33,0,Bachelor,Unemployed,Python,1,10000.0
+25,1,Diploma/ Advanced Diploma,Unemployed,R,1,20000.0
+24,1,Masters,Statistician,C,5,90000.0
+26,1,Masters,Software Engineer,R,1,10000.0
+23,1,High school,Unemployed,R,3,10000.0
+27,0,Bachelor,Data Analyst,Python,1,10000.0
+20,1,Masters,Data Analyst,Python,6,10000.0
+27,0,Masters,Data Analyst,Python,1,10000.0
+29,0,Masters,Data Scientist,R,1,20000.0
+28,0,Masters,Data Scientist,PHP,1,10000.0
+38,1,Bachelor,Software Engineer,R,1,10000.0
+26,1,Diploma/ Advanced Diploma,Data Engineer,Python,1,10000.0
+30,1,Diploma/ Advanced Diploma,Business Analyst,R,1,10000.0
+33,1,Masters,Business Analyst,Python,1,10000.0
+20,0,Masters,Unemployed,Python,5,10000.0
+28,1,High school,Data Scientist,Python,1,10000.0
+22,1,Masters,Data Scientist,R,1,10000.0
+26,1,Bachelor,Data Engineer,Python,7,10000.0
+30,0,Masters,Data Analyst,PHP,1,10000.0
+22,1,Masters,Database Engineer,PHP,2,10000.0
+28,1,Bachelor,Data Analyst,R,1,80000.0
+33,0,Diploma/ Advanced Diploma,Business Analyst,Python,1,10000.0
+32,1,Bachelor,Data Scientist,Python,1,20000.0
+25,1,Bachelor,Business Analyst,PHP,5,10000.0
+38,0,Masters,Data Scientist,Python,1,10000.0
+31,1,High school,Statistician,C,1,10000.0
+24,1,Masters,Data Scientist,Python,8,10000.0
+38,1,PhD,Business Analyst,Python,1,10000.0
+38,1,Bachelor,Data Scientist,Python,1,10000.0
+29,1,Masters,Statistician,Python,1,10000.0
+37,0,Masters,Business Analyst,Python,1,10000.0
+37,0,Diploma/ Advanced Diploma,Software Engineer,Python,1,10000.0
+21,0,Bachelor,Unemployed,Python,2,40000.0
+27,0,Masters,Unemployed,Python,1,10000.0
+25,0,Masters,Software Engineer,Python,1,10000.0
+32,1,Bachelor,Data Engineer,R,1,10000.0
+22,1,Bachelor,Software Engineer,Python,1,10000.0
+23,0,Diploma/ Advanced Diploma,Other,Python,4,20000.0
+32,0,Masters,Unemployed,PHP,1,10000.0
+26,1,Bachelor,Software Engineer,R,1,10000.0
+26,0,Bachelor,Unemployed,Python,1,10000.0
+28,1,Diploma/ Advanced Diploma,Data Analyst,Python,1,10000.0
+27,1,Bachelor,Software Engineer,Python,1,10000.0
+27,1,Bachelor,Data Scientist,R,1,30000.0
+34,1,PhD,Unemployed,Python,1,30000.0
+24,0,Bachelor,Data Analyst,Python,1,10000.0
+25,1,Bachelor,Data Engineer,PHP,1,10000.0
+22,1,Bachelor,Software Engineer,Python,3,10000.0
+28,1,Bachelor,Unemployed,PHP,1,10000.0
+22,0,Diploma/ Advanced Diploma,Data Engineer,Python,2,10000.0
+27,1,PhD,Business Analyst,Python,1,10000.0
+38,1,Masters,Software Engineer,Python,1,10000.0
+23,0,Bachelor,Other,PHP,1,10000.0
+26,1,Bachelor,Statistician,C,1,10000.0
+38,1,Bachelor,Software Engineer,Python,1,10000.0
+27,0,Diploma/ Advanced Diploma,Software Engineer,Python,1,10000.0
+38,1,Bachelor,Software Engineer,Python,1,10000.0
+29,0,Bachelor,Unemployed,R,1,20000.0
+32,0,Diploma/ Advanced Diploma,Data Engineer,Python,1,10000.0
+25,1,Diploma/ Advanced Diploma,Data Scientist,Python,1,10000.0
+26,0,PhD,Software Engineer,PHP,1,10000.0
+33,1,Diploma/ Advanced Diploma,Database Engineer,C,1,10000.0
+36,1,Masters,Software Engineer,Python,1,10000.0
+29,1,Bachelor,Data Engineer,R,1,10000.0
+20,0,Bachelor,Software Engineer,Python,4,20000.0
+29,1,Diploma/ Advanced Diploma,Data Engineer,R,1,10000.0
+33,1,Bachelor,Unemployed,R,1,20000.0
+23,1,Bachelor,Unemployed,Python,4,20000.0
+24,1,Bachelor,Data Analyst,Python,10,10000.0
+28,1,Bachelor,Statistician,R,1,10000.0
+28,0,Masters,Statistician,PHP,1,10000.0
+38,1,Diploma/ Advanced Diploma,Unemployed,PHP,1,10000.0
+23,0,Masters,Business Analyst,PHP,4,10000.0
+22,0,Masters,Data Engineer,Python,8,10000.0
+33,1,PhD,Software Engineer,Python,1,10000.0
+38,1,PhD,Unemployed,Python,1,10000.0
+38,1,Diploma/ Advanced Diploma,Data Analyst,Python,1,10000.0
+26,1,Bachelor,Database Engineer,Python,1,10000.0
+26,0,Bachelor,Data Scientist,Python,7,10000.0
+38,0,Bachelor,Data Analyst,R,1,10000.0
+21,1,PhD,Business Analyst,R,2,20000.0
+38,0,Bachelor,Business Analyst,C,1,10000.0
+38,1,Bachelor,Data Scientist,Python,1,10000.0
+25,1,PhD,Software Engineer,C,6,10000.0
+29,1,Bachelor,Software Engineer,PHP,1,10000.0
+25,1,Bachelor,Software Engineer,Python,1,10000.0
+27,1,Bachelor,Unemployed,Python,7,10000.0
+32,1,Masters,Business Analyst,C,1,10000.0
+23,0,Bachelor,Software Engineer,Python,1,10000.0
+22,0,PhD,Statistician,R,6,10000.0
+28,1,Bachelor,Database Engineer,Python,1,10000.0
+22,1,Bachelor,Software Engineer,PHP,6,20000.0
+21,1,Masters,Data Scientist,Python,3,10000.0
+26,1,High school,Data Scientist,Python,1,10000.0
+38,1,PhD,Software Engineer,PHP,1,10000.0
+23,0,Masters,Data Engineer,Python,5,10000.0
+28,0,Masters,Data Analyst,Python,1,10000.0
+21,1,Bachelor,Business Analyst,Python,2,10000.0
+30,1,PhD,Unemployed,Python,1,10000.0
+26,1,Bachelor,Software Engineer,Python,1,10000.0
+27,1,Masters,Software Engineer,R,1,10000.0
+26,1,Diploma/ Advanced Diploma,Data Engineer,C,6,10000.0
+38,1,Bachelor,Unemployed,PHP,1,10000.0
+38,0,Diploma/ Advanced Diploma,Data Analyst,PHP,1,10000.0
+27,1,Masters,Data Analyst,Python,1,10000.0
+38,0,PhD,Unemployed,C,1,10000.0
+21,1,Bachelor,Software Engineer,Python,11,10000.0
+38,1,PhD,Software Engineer,Python,1,10000.0
+37,0,Masters,Unemployed,Python,1,10000.0
+23,1,Bachelor,Software Engineer,Python,5,10000.0
+38,1,Diploma/ Advanced Diploma,Database Engineer,Python,1,90000.0
+26,1,Bachelor,Software Engineer,C,1,10000.0
+26,1,Diploma/ Advanced Diploma,Software Engineer,Python,1,10000.0
+24,1,Diploma/ Advanced Diploma,Data Scientist,C,6,10000.0
+24,1,Masters,Business Analyst,R,1,10000.0
+24,0,Masters,Software Engineer,Python,1,20000.0
+24,1,Masters,Data Scientist,R,1,10000.0
+30,0,Diploma/ Advanced Diploma,Data Scientist,PHP,1,10000.0
+27,1,Masters,Data Scientist,C,1,10000.0
+29,1,Bachelor,Data Engineer,Python,1,10000.0
+31,0,High school,Unemployed,Python,1,10000.0
+27,1,Masters,Business Analyst,R,1,10000.0
+24,1,Bachelor,Data Analyst,R,7,10000.0
+38,1,PhD,Database Engineer,PHP,1,10000.0
+29,1,Masters,Data Analyst,PHP,1,10000.0
+32,1,Masters,Data Engineer,R,1,10000.0
+27,1,Masters,Data Scientist,Python,7,10000.0
+38,1,Bachelor,Unemployed,Python,1,10000.0
+28,1,Bachelor,Software Engineer,C,1,70000.0
+32,1,Bachelor,Business Analyst,Python,1,10000.0
+26,1,Masters,Software Engineer,R,6,10000.0
+22,0,High school,Software Engineer,C,6,10000.0
+24,0,Bachelor,Statistician,C,1,10000.0
+20,0,PhD,Data Engineer,Python,1,10000.0
+27,1,Bachelor,Data Scientist,Python,1,10000.0
+28,0,Diploma/ Advanced Diploma,Data Engineer,C,1,20000.0
+25,0,PhD,Business Analyst,R,5,10000.0
+29,1,Masters,Data Analyst,R,1,10000.0
+26,1,Diploma/ Advanced Diploma,Software Engineer,Python,1,10000.0
+29,1,Bachelor,Software Engineer,Python,1,10000.0
+38,1,Diploma/ Advanced Diploma,Software Engineer,R,1,20000.0
+28,0,Bachelor,Data Scientist,PHP,1,10000.0
+39,0,High school,Software Engineer,C,1,20000.0
+31,1,Diploma/ Advanced Diploma,Statistician,Python,1,20000.0
+24,0,Bachelor,Data Scientist,C,6,10000.0
+20,1,Masters,Software Engineer,R,1,10000.0
+26,1,PhD,Statistician,C,1,10000.0
+26,1,Bachelor,Business Analyst,R,1,10000.0
+21,1,Bachelor,Data Analyst,R,7,10000.0
+25,1,Bachelor,Unemployed,Python,1,20000.0
+23,1,Masters,Database Engineer,Python,3,10000.0
+37,1,Masters,Data Engineer,R,1,10000.0
+28,0,Masters,Business Analyst,Python,1,10000.0
+20,1,Bachelor,Data Scientist,Python,4,10000.0
+26,1,Bachelor,Data Analyst,Python,1,10000.0
+38,1,Masters,Data Scientist,R,1,10000.0
+22,1,Diploma/ Advanced Diploma,Business Analyst,Python,5,10000.0
+38,0,Masters,Unemployed,PHP,1,10000.0
+32,1,Diploma/ Advanced Diploma,Software Engineer,C,1,10000.0
+25,1,Bachelor,Business Analyst,Python,1,10000.0
+38,1,Bachelor,Data Scientist,Python,1,10000.0
+21,1,Bachelor,Software Engineer,Python,5,10000.0
+26,1,Masters,Software Engineer,Python,8,10000.0
+31,0,Masters,Database Engineer,Python,1,20000.0
+24,0,Bachelor,Business Analyst,Python,1,10000.0
+31,0,Masters,Data Analyst,Python,1,10000.0
+26,1,Bachelor,Business Analyst,Python,1,10000.0
+27,1,Bachelor,Unemployed,Python,1,10000.0
+26,1,Bachelor,Business Analyst,C,1,10000.0
+25,1,Bachelor,Data Scientist,Python,1,20000.0
+24,0,Diploma/ Advanced Diploma,Data Analyst,Python,1,10000.0
+21,1,Masters,Data Scientist,Python,2,20000.0
+20,1,High school,Unemployed,R,1,10000.0
+28,1,Diploma/ Advanced Diploma,Statistician,Python,1,10000.0
+27,1,Masters,Unemployed,Python,1,30000.0
+21,1,Bachelor,Data Scientist,C,5,10000.0
+21,1,Bachelor,Software Engineer,Python,1,10000.0
+28,0,Bachelor,Data Scientist,Python,1,10000.0
+29,1,Masters,Statistician,R,1,10000.0
+20,1,Bachelor,Database Engineer,Python,6,10000.0
+22,1,Bachelor,Software Engineer,C,1,30000.0
+23,1,Masters,Business Analyst,R,1,20000.0
+24,0,Bachelor,Software Engineer,Python,4,10000.0
+30,0,Bachelor,Unemployed,Python,1,30000.0
+26,1,PhD,Business Analyst,PHP,1,10000.0
+23,1,Bachelor,Business Analyst,Python,5,20000.0
+23,1,Bachelor,Software Engineer,Python,3,10000.0
+29,0,Masters,Unemployed,R,1,20000.0
+32,0,Bachelor,Data Analyst,Python,1,10000.0
+20,1,Bachelor,Database Engineer,R,3,10000.0
+23,1,Diploma/ Advanced Diploma,Software Engineer,C,5,10000.0
+28,0,Diploma/ Advanced Diploma,Software Engineer,R,1,10000.0
+32,1,Masters,Database Engineer,C,1,10000.0
+22,1,Diploma/ Advanced Diploma,Unemployed,Python,1,10000.0
+20,1,Diploma/ Advanced Diploma,Data Scientist,Python,3,10000.0
+28,0,High school,Data Scientist,C,1,10000.0
+38,1,Masters,Software Engineer,Python,1,10000.0
+21,1,PhD,Software Engineer,Python,7,10000.0
+32,0,Bachelor,Software Engineer,C,1,10000.0
+28,0,Bachelor,Data Analyst,R,1,10000.0
+27,0,High school,Business Analyst,Python,1,20000.0
+25,1,Bachelor,Software Engineer,R,1,10000.0
+35,0,Bachelor,Unemployed,Python,1,20000.0
+38,1,Bachelor,Database Engineer,Python,1,10000.0
+25,1,Masters,Unemployed,R,1,10000.0
+38,1,PhD,Unemployed,Python,1,20000.0
+38,1,Bachelor,Software Engineer,Python,1,10000.0
+25,0,Masters,Database Engineer,PHP,1,10000.0
+30,0,Masters,Unemployed,Python,1,10000.0
+27,0,Bachelor,Software Engineer,C,1,10000.0
+23,1,PhD,Unemployed,Python,3,10000.0
+27,0,Masters,Unemployed,PHP,1,30000.0
+32,0,Diploma/ Advanced Diploma,Data Engineer,R,1,10000.0
+23,0,Diploma/ Advanced Diploma,Software Engineer,R,3,20000.0
+31,1,Masters,Data Analyst,R,1,10000.0
+26,1,Bachelor,Software Engineer,Python,6,10000.0
+24,1,Masters,Software Engineer,PHP,4,20000.0
+27,1,High school,Data Engineer,Python,1,10000.0
+21,1,Masters,Software Engineer,R,4,10000.0
+25,1,PhD,Database Engineer,PHP,1,10000.0
+28,1,Bachelor,Database Engineer,Python,1,10000.0
+38,0,Masters,Business Analyst,Python,1,10000.0
+29,1,Masters,Data Analyst,PHP,1,10000.0
+26,1,Diploma/ Advanced Diploma,Business Analyst,R,1,10000.0
+26,1,Bachelor,Data Analyst,Python,1,10000.0
+25,1,Bachelor,Data Scientist,Python,1,10000.0
+29,0,Diploma/ Advanced Diploma,Data Scientist,Python,1,10000.0
+22,1,Diploma/ Advanced Diploma,Software Engineer,Python,5,10000.0
+26,1,Masters,Software Engineer,C,1,10000.0
+38,0,PhD,Software Engineer,PHP,1,50000.0
+29,0,Bachelor,Statistician,Python,1,10000.0
+27,0,Masters,Data Scientist,R,1,10000.0
+25,0,Bachelor,Unemployed,Python,1,10000.0
+42,1,Masters,Unemployed,Python,1,10000.0
+28,1,Masters,Data Analyst,C,1,10000.0
+31,1,Bachelor,Data Scientist,Python,1,10000.0
+30,0,High school,Unemployed,Python,1,20000.0
+27,0,Diploma/ Advanced Diploma,Data Engineer,Python,1,10000.0
+23,1,Bachelor,Unemployed,Python,1,10000.0
+38,0,PhD,Data Engineer,PHP,1,10000.0
+25,1,Bachelor,Software Engineer,PHP,1,10000.0
+31,1,Masters,Data Engineer,PHP,1,10000.0
+22,0,PhD,Statistician,PHP,5,10000.0
+38,0,Diploma/ Advanced Diploma,Statistician,Python,1,20000.0
+38,1,Masters,Software Engineer,PHP,1,10000.0
+24,1,Diploma/ Advanced Diploma,Data Analyst,Python,1,10000.0
+35,1,Masters,Data Analyst,R,1,10000.0
+38,1,Diploma/ Advanced Diploma,Data Engineer,Python,1,10000.0
+22,1,Bachelor,Data Scientist,C,3,40000.0
+22,1,Bachelor,Software Engineer,PHP,7,10000.0
+27,1,Bachelor,Data Scientist,Python,1,10000.0
+30,0,Bachelor,Data Analyst,R,1,10000.0
+27,1,Masters,Data Analyst,Python,1,10000.0
+38,0,Bachelor,Data Analyst,Python,1,10000.0
+32,1,Masters,Software Engineer,R,1,10000.0
+29,1,Masters,Business Analyst,Python,1,10000.0
+38,1,Masters,Data Analyst,PHP,1,10000.0
+30,1,Bachelor,Data Analyst,Python,1,10000.0
+30,1,Bachelor,Statistician,R,1,10000.0
+31,1,Masters,Unemployed,Python,1,10000.0
+29,1,Masters,Software Engineer,Python,1,30000.0
+21,1,Masters,Data Scientist,Python,4,10000.0
+38,1,PhD,Data Engineer,Python,1,10000.0
+24,1,Bachelor,Unemployed,Python,1,10000.0
+38,1,Diploma/ Advanced Diploma,Data Scientist,R,1,30000.0
+22,1,Masters,Data Scientist,PHP,1,10000.0
+38,1,Bachelor,Data Engineer,Python,1,10000.0
+32,1,Bachelor,Software Engineer,PHP,1,10000.0
+20,0,Masters,Statistician,PHP,7,10000.0
+24,1,Diploma/ Advanced Diploma,Software Engineer,Python,4,10000.0
+23,1,PhD,Unemployed,Python,5,10000.0
+24,1,Diploma/ Advanced Diploma,Data Scientist,C,7,10000.0
+25,1,Masters,Software Engineer,C,7,10000.0
+24,1,High school,Database Engineer,Python,5,20000.0
+29,1,Bachelor,Unemployed,Python,1,10000.0
+33,1,Diploma/ Advanced Diploma,Unemployed,R,1,10000.0
+29,1,Masters,Software Engineer,PHP,10,10000.0
+30,1,Masters,Data Analyst,Python,1,30000.0
+38,1,Diploma/ Advanced Diploma,Unemployed,Python,1,10000.0
