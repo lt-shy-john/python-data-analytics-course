@@ -49,5 +49,8 @@ data = pd.DataFrame({'Age': age_data,
                      'Experience': experience_data,
                      'Salary': salary_data
                      })
+					 
+# Correct salary data
+data[data['Qualifications'] == 'Unemployed']['Salary'] = 0
 
 data.to_csv('files/survey_data.csv', index=False)
