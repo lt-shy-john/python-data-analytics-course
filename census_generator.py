@@ -2,9 +2,7 @@
 import numpy as np
 import pandas as pd
 
-import math
 import scipy.stats as stats
-from scipy.special import logit
 import random
 
 import matplotlib.pyplot as plt
@@ -303,8 +301,10 @@ a = 2
 b = 4
 df_life['ECONOMIC_VALUE_VALUE_COMPETITION'] = np.round((stats.beta.rvs(a=a,b=b,size=df_life.shape[0]) * 10).clip(1, 5))
 
-
-
+'''
+Security
+'''
+# Higher means feeling secured
 
 
 
