@@ -221,6 +221,8 @@ df.loc[df['Salary'] < 0, 'Salary'] = 10000 * stats.poisson.rvs(mu=4, size=df.loc
 profile = ProfileReport(df, title="Pandas Profiling Report", samples=None, missing_diagrams={"bar": True, "heatmap": False, "dendrogram": True}, explorative=True)
 profile.to_file("census_ind.html")
 
+df.to_csv('census_ind.csv', index_label='ID')
+
 '''
 Life Satisfaction Survey
 '''
@@ -228,6 +230,8 @@ Life Satisfaction Survey
 
 n = 275
 df_life = df.sample(n=n)
+df_life = pd.get_dummies(df_life, columns=['Gender', 'Citizen', 'Dwell Type', 'Finding Work'])
+print(df_life.head())
 
 '''
 Values of life
@@ -305,9 +309,86 @@ df_life['ECONOMIC_VALUE_VALUE_COMPETITION'] = np.round((stats.beta.rvs(a=a,b=b,s
 Security
 '''
 # Higher means feeling secured
+secure_score = []
+for index, row in df_life.iterrows():
+    person_secure_score = np.ones(5)
+    if row['Gender_Male'] == 1:
+        person_secure_score += [-0.01, 0.1, 0.15, 0.9, 0.45]
+    elif row['Gender_Female'] == 1:
+        person_secure_score += [0.05, 0.2, 0.27, 0.92, 0.15]
+    else:
+        person_secure_score += [0.85, 0.182, 0.18, 0.1, -0.5]
+    if row['Dwell Type_With mortgage'] == 1:
+        person_secure_score += [-0.22, -0.001, 0.42, 0.23, 0.14]
+    elif row['Dwell Type_Owned outright'] == 1:
+        person_secure_score += [-0.003, 0.15, 0.22, 0.45, 0.42]
+        # print(row['Gender_Male'], row['Gender_Female'])
+    if row['Age'] > 35:
+        person_secure_score += stats.norm.rvs(loc=0, scale=5, size=5)
+    elif row['Age'] > 25:
+        person_secure_score += stats.norm.rvs(loc=person_secure_score.mean(), scale=2.5, size=5)
+    try:
+        person_secure_score = random.choices(list(range(1, 6)), weights=person_secure_score, k=1)[0]
+    except ValueError:
+        # Some bugs cases the weights missing.
+        person_secure_score = 1
+    secure_score.append(person_secure_score)
+
+df_life['SECURE'] = secure_score
+
+'''
+Job Security
+'''
+
+intercept = -2.524
+coef_gender_male = 2.42
+coef_domestic = 2.21
+coef_finding_work = -3.162
+
+job_security_score = (intercept + coef_gender_male * df_life["Gender_Male"] + coef_domestic * df_life["Domestic Activities Hours"] + coef_finding_work * df_life["Finding Work_Yes"] + stats.beta.rvs(a=2,b=2,loc=-0.5,size=df_life.shape[0])).clip(1, 5)
+df_life['SECURE_JOB'] = np.round(value_work)
+
+'''
+Crime
+'''
+
+'''
+Politics
+'''
+
+# Do you think it is justifiable:
+
+# Do you think it is justifiable:
+
+# Do you think it is justifiable:
+
+# Are you associated with a political party
+
+# Are you associated with a political campaign
+
+# Are you associated with a religious organisation
+
+# Did you vote in past 12 months
+
+
+'''
+Sexual orientation
+'''
+
+
+'''
+Health
+'''
 
 
 
 
 
 
+
+df_life = df_life[['Age', 'Location', 'Ethnic', 'Religion', 'Maternity', 'Working', 'Education Level', 'VALUE_FAMILY', 'VALUE_FRIENDS', 'VALUE_WORK', 'ECONOMIC_VALUE_VALUE_IND_EFFORT', 'ECONOMIC_VALUE_VALUE_PRIVATE_PUBLIC_ENTITIES',  'ECONOMIC_VALUE_VALUE_COMPETITION', 'SECURE', 'SECURE_JOB']]
+
+profile = ProfileReport(df_life, title="Pandas Profiling Report", samples=None, missing_diagrams={"bar": True, "heatmap": False, "dendrogram": True}, explorative=True)
+profile.to_file("wellbeing_ind.html")
+
+df_life.to_csv('wellbeing_ind.csv', index_label='ID')
